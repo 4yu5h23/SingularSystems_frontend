@@ -1,0 +1,67 @@
+.e8_1533 { 
+	overflow:hidden;
+}
+.e8_1533 { 
+	width:850px;
+	height:118px;
+	position:absolute;
+}
+.e8_1534 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:850px;
+	height:118px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.e8_1536 { 
+	color:rgba(0, 0, 0, 1);
+	width:344px;
+	height:20.85581398010254px;
+	position:absolute;
+	left:147px;
+	top:12px;
+	font-family:Outfit;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e8_1537 { 
+	color:rgba(0, 0, 0, 1);
+	width:205px;
+	height:61px;
+	position:absolute;
+	left:147px;
+	top:45px;
+	font-family:Outfit;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e8_1538 { 
+	color:rgba(0, 0, 0, 1);
+	width:98px;
+	height:50px;
+	position:absolute;
+	left:656px;
+	top:34px;
+	font-family:Outfit;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e8_1541 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:81px;
+	height:95px;
+	position:absolute;
+	left:44px;
+	top:7px;
+	background-image:url(/public/images/i7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

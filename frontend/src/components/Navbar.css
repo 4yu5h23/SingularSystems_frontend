@@ -1,0 +1,31 @@
+/* Navigation Bar Styling */
+
+#navId {
+    border-bottom: 3px solid #9E00FF;
+    padding: 0.5rem;
+}
+
+#logo {
+    color: #9E00FF;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.nav-item {
+    margin: 0 0.6rem;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+}
+
+.dropdown-item {
+    font-weight: bold;
+}
+
+.dropdown-item:hover {
+    background-color: #ebcaff;
+}
+
+.nav-item:hover,
+.nav-item:active {
+    border-bottom: 2px solid #ca75ff;
+}

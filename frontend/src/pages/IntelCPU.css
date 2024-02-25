@@ -1,0 +1,21 @@
+.custom-component {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 3rem;
+    border: 1px solid black;
+}
+
+.component-description li {
+    font-size: 10px;
+}
+
+.custom-heading {
+    margin: 2rem;
+    margin-bottom: 4rem;
+}
+
+.custom-parts {
+    background-color: #CACACA;
+    border: 1px solid black;
+}
